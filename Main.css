@@ -1,0 +1,46 @@
+#identification 
+	{
+		text-align: center;
+		body { background-color:blue; }
+		.highlightme { background-color:#FFFF00; }
+		p { background-color:#FFFFFF; }
+	}
+
+#Home
+{
+
+
+}
+
+#EpisodeGuide {}
+#Characters {
+body {
+	font-family:courier;
+	font-size: 2;
+	color: #ff0000;
+	
+}
+
+}
+#About {}
+#Fancy
+{
+Snell Roundhand;
+text-align: center;
+font-size: 30px;
+}
+
+#Format {
+margin-left: 50px;
+}
+
+	body
+	 {
+	 	font-family: 'Oswald',sans-serif;
+    	color: white;
+	 	background-image: url("Wallpaper1.jpg"); 
+	 	background-repeat: no-repeat, repeat;
+		background-color: #000;
+		background-size: auto;
+	}
+
